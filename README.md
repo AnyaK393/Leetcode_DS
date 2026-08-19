@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AnyaK393/Leetcode_DS/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AnyaK393/Leetcode_DS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/AnyaK393/Leetcode_DS/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AnyaK393/Leetcode_DS/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnyaK393/Leetcode_DS/tree/master/0240-search-a-2d-matrix-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AnyaK393/Leetcode_DS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnyaK393/Leetcode_DS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AnyaK393/Leetcode_DS/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
