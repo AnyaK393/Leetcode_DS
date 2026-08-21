@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AnyaK393/Leetcode_DS/tree/master/0073-set-matrix-zeroes) |
+| [0142-linked-list-cycle-ii](https://github.com/AnyaK393/Leetcode_DS/tree/master/0142-linked-list-cycle-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AnyaK393/Leetcode_DS/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/AnyaK393/Leetcode_DS/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnyaK393/Leetcode_DS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/AnyaK393/Leetcode_DS/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/AnyaK393/Leetcode_DS/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/AnyaK393/Leetcode_DS/tree/master/0443-string-compression) |
 ## String
@@ -96,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/AnyaK393/Leetcode_DS/tree/master/1386-cinema-seat-allocation) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/AnyaK393/Leetcode_DS/tree/master/0142-linked-list-cycle-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/AnyaK393/Leetcode_DS/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
