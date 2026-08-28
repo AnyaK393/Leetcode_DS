@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AnyaK393/Leetcode_DS/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/AnyaK393/Leetcode_DS/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/AnyaK393/Leetcode_DS/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AnyaK393/Leetcode_DS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
@@ -142,8 +143,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AnyaK393/Leetcode_DS/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/AnyaK393/Leetcode_DS/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AnyaK393/Leetcode_DS/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/AnyaK393/Leetcode_DS/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
