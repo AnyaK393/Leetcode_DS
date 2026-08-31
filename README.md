@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/AnyaK393/Leetcode_DS/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/AnyaK393/Leetcode_DS/tree/master/0142-linked-list-cycle-ii) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AnyaK393/Leetcode_DS/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AnyaK393/Leetcode_DS/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
