@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AnyaK393/Leetcode_DS/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/AnyaK393/Leetcode_DS/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/AnyaK393/Leetcode_DS/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/AnyaK393/Leetcode_DS/tree/master/0146-lru-cache) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnyaK393/Leetcode_DS/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/AnyaK393/Leetcode_DS/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AnyaK393/Leetcode_DS/tree/master/0560-subarray-sum-equals-k) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AnyaK393/Leetcode_DS/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/AnyaK393/Leetcode_DS/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/AnyaK393/Leetcode_DS/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/AnyaK393/Leetcode_DS/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AnyaK393/Leetcode_DS/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AnyaK393/Leetcode_DS/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Floyd's Cycle Finding Algorithm
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AnyaK393/Leetcode_DS/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AnyaK393/Leetcode_DS/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AnyaK393/Leetcode_DS/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/AnyaK393/Leetcode_DS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AnyaK393/Leetcode_DS/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
