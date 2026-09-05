@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AnyaK393/Leetcode_DS/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnyaK393/Leetcode_DS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/AnyaK393/Leetcode_DS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AnyaK393/Leetcode_DS/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AnyaK393/Leetcode_DS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnyaK393/Leetcode_DS/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AnyaK393/Leetcode_DS/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/AnyaK393/Leetcode_DS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AnyaK393/Leetcode_DS/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/AnyaK393/Leetcode_DS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AnyaK393/Leetcode_DS/tree/master/0503-next-greater-element-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AnyaK393/Leetcode_DS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AnyaK393/Leetcode_DS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AnyaK393/Leetcode_DS/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
