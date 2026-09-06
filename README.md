@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AnyaK393/Leetcode_DS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnyaK393/Leetcode_DS/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AnyaK393/Leetcode_DS/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0994-rotting-oranges](https://github.com/AnyaK393/Leetcode_DS/tree/master/0994-rotting-oranges) |
 | [1386-cinema-seat-allocation](https://github.com/AnyaK393/Leetcode_DS/tree/master/1386-cinema-seat-allocation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AnyaK393/Leetcode_DS/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnyaK393/Leetcode_DS/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AnyaK393/Leetcode_DS/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AnyaK393/Leetcode_DS/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnyaK393/Leetcode_DS/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/AnyaK393/Leetcode_DS/tree/master/0994-rotting-oranges) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AnyaK393/Leetcode_DS/tree/master/0387-first-unique-character-in-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/AnyaK393/Leetcode_DS/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
