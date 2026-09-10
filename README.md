@@ -192,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/AnyaK393/Leetcode_DS/tree/master/0901-online-stock-span) |
+## Database
+|  |
+| ------- |
+| [0619-biggest-single-number](https://github.com/AnyaK393/Leetcode_DS/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
