@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/AnyaK393/Leetcode_DS/tree/master/0836-rectangle-overlap) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnyaK393/Leetcode_DS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/AnyaK393/Leetcode_DS/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AnyaK393/Leetcode_DS/tree/master/3871-count-commas-in-range-ii) |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AnyaK393/Leetcode_DS/tree/master/0094-binary-tree-inorder-traversal) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/AnyaK393/Leetcode_DS/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
