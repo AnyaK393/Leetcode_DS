@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/AnyaK393/Leetcode_DS/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/AnyaK393/Leetcode_DS/tree/master/0994-rotting-oranges) |
 | [1386-cinema-seat-allocation](https://github.com/AnyaK393/Leetcode_DS/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnyaK393/Leetcode_DS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AnyaK393/Leetcode_DS/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnyaK393/Leetcode_DS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnyaK393/Leetcode_DS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AnyaK393/Leetcode_DS/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AnyaK393/Leetcode_DS/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/AnyaK393/Leetcode_DS/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnyaK393/Leetcode_DS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnyaK393/Leetcode_DS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AnyaK393/Leetcode_DS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnyaK393/Leetcode_DS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/AnyaK393/Leetcode_DS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AnyaK393/Leetcode_DS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AnyaK393/Leetcode_DS/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnyaK393/Leetcode_DS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnyaK393/Leetcode_DS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnyaK393/Leetcode_DS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AnyaK393/Leetcode_DS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnyaK393/Leetcode_DS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnyaK393/Leetcode_DS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnyaK393/Leetcode_DS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnyaK393/Leetcode_DS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
 |  |
