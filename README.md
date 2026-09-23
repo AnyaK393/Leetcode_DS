@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AnyaK393/Leetcode_DS/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AnyaK393/Leetcode_DS/tree/master/0033-search-in-rotated-sorted-array) |
+| [0051-n-queens](https://github.com/AnyaK393/Leetcode_DS/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/AnyaK393/Leetcode_DS/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AnyaK393/Leetcode_DS/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/AnyaK393/Leetcode_DS/tree/master/0134-gas-station) |
@@ -292,4 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AnyaK393/Leetcode_DS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/AnyaK393/Leetcode_DS/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/AnyaK393/Leetcode_DS/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
