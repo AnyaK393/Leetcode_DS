@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AnyaK393/Leetcode_DS/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/AnyaK393/Leetcode_DS/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/AnyaK393/Leetcode_DS/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnyaK393/Leetcode_DS/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/AnyaK393/Leetcode_DS/tree/master/0443-string-compression) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AnyaK393/Leetcode_DS/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AnyaK393/Leetcode_DS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnyaK393/Leetcode_DS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnyaK393/Leetcode_DS/tree/master/0145-binary-tree-postorder-traversal) |
@@ -340,5 +342,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AnyaK393/Leetcode_DS/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnyaK393/Leetcode_DS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
