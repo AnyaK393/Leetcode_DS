@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AnyaK393/Leetcode_DS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AnyaK393/Leetcode_DS/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AnyaK393/Leetcode_DS/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/AnyaK393/Leetcode_DS/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnyaK393/Leetcode_DS/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/AnyaK393/Leetcode_DS/tree/master/0443-string-compression) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AnyaK393/Leetcode_DS/tree/master/0022-generate-parentheses) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnyaK393/Leetcode_DS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnyaK393/Leetcode_DS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AnyaK393/Leetcode_DS/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/AnyaK393/Leetcode_DS/tree/master/0051-n-queens) |
 ## Algorithm X
 |  |
@@ -345,5 +348,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnyaK393/Leetcode_DS/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AnyaK393/Leetcode_DS/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnyaK393/Leetcode_DS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
