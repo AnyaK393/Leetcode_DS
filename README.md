@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AnyaK393/Leetcode_DS/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnyaK393/Leetcode_DS/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/AnyaK393/Leetcode_DS/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/AnyaK393/Leetcode_DS/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnyaK393/Leetcode_DS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AnyaK393/Leetcode_DS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AnyaK393/Leetcode_DS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/AnyaK393/Leetcode_DS/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/AnyaK393/Leetcode_DS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnyaK393/Leetcode_DS/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/AnyaK393/Leetcode_DS/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/AnyaK393/Leetcode_DS/tree/master/0901-online-stock-span) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnyaK393/Leetcode_DS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AnyaK393/Leetcode_DS/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/AnyaK393/Leetcode_DS/tree/master/0134-gas-station) |
+| [0678-valid-parenthesis-string](https://github.com/AnyaK393/Leetcode_DS/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/AnyaK393/Leetcode_DS/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnyaK393/Leetcode_DS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Bit Manipulation
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnyaK393/Leetcode_DS/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/AnyaK393/Leetcode_DS/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnyaK393/Leetcode_DS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnyaK393/Leetcode_DS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnyaK393/Leetcode_DS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AnyaK393/Leetcode_DS/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/AnyaK393/Leetcode_DS/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnyaK393/Leetcode_DS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Iterator
 |  |
