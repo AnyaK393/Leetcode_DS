@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/AnyaK393/Leetcode_DS/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/AnyaK393/Leetcode_DS/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnyaK393/Leetcode_DS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1254-number-of-closed-islands](https://github.com/AnyaK393/Leetcode_DS/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/AnyaK393/Leetcode_DS/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnyaK393/Leetcode_DS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AnyaK393/Leetcode_DS/tree/master/2073-time-needed-to-buy-tickets) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/AnyaK393/Leetcode_DS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnyaK393/Leetcode_DS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/AnyaK393/Leetcode_DS/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/AnyaK393/Leetcode_DS/tree/master/1254-number-of-closed-islands) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnyaK393/Leetcode_DS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/AnyaK393/Leetcode_DS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AnyaK393/Leetcode_DS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/AnyaK393/Leetcode_DS/tree/master/1254-number-of-closed-islands) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnyaK393/Leetcode_DS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/AnyaK393/Leetcode_DS/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AnyaK393/Leetcode_DS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/AnyaK393/Leetcode_DS/tree/master/1254-number-of-closed-islands) |
 ## Data Stream
 |  |
 | ------- |
@@ -473,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AnyaK393/Leetcode_DS/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/AnyaK393/Leetcode_DS/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
