@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AnyaK393/Leetcode_DS/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AnyaK393/Leetcode_DS/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnyaK393/Leetcode_DS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0051-n-queens](https://github.com/AnyaK393/Leetcode_DS/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/AnyaK393/Leetcode_DS/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AnyaK393/Leetcode_DS/tree/master/0073-set-matrix-zeroes) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AnyaK393/Leetcode_DS/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnyaK393/Leetcode_DS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnyaK393/Leetcode_DS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AnyaK393/Leetcode_DS/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AnyaK393/Leetcode_DS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
