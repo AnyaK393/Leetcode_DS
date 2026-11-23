@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/AnyaK393/Leetcode_DS/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnyaK393/Leetcode_DS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/AnyaK393/Leetcode_DS/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AnyaK393/Leetcode_DS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AnyaK393/Leetcode_DS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/AnyaK393/Leetcode_DS/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnyaK393/Leetcode_DS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AnyaK393/Leetcode_DS/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AnyaK393/Leetcode_DS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AnyaK393/Leetcode_DS/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3903-smallest-stable-index-i](https://github.com/AnyaK393/Leetcode_DS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AnyaK393/Leetcode_DS/tree/master/3904-smallest-stable-index-ii) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AnyaK393/Leetcode_DS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AnyaK393/Leetcode_DS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/AnyaK393/Leetcode_DS/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AnyaK393/Leetcode_DS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AnyaK393/Leetcode_DS/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/AnyaK393/Leetcode_DS/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnyaK393/Leetcode_DS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/AnyaK393/Leetcode_DS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AnyaK393/Leetcode_DS/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/AnyaK393/Leetcode_DS/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AnyaK393/Leetcode_DS/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/AnyaK393/Leetcode_DS/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AnyaK393/Leetcode_DS/tree/master/1352-product-of-the-last-k-numbers) |
 ## Database
 |  |
 | ------- |
